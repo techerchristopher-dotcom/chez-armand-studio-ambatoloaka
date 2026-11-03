@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chez-armand-studio-ambatoloaka.rentanoo.com/sitemap.xml
